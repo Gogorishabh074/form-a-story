@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(205, 202, 50);
+}
+#top{
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 300px;
+    margin-right: 300px;  
+    margin-bottom: 10px; 
+}
+#main{
+    background-color: wheat;
+    padding: 5px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 20px;
+    text-align: center; 
+}
+.container{
+    background-color: wheat;
+    padding: 5px;
+    margin-left: 400px;
+    margin-right: 400px;
+    border-radius: 20px;
+    line-height: 1.6;
+}
+.para{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 10px 20px;
+}
